@@ -1,0 +1,62 @@
+---
+layout: page
+title: About
+permalink: /about/
+weight: 3
+---
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="../css/about.css" />
+  </head>
+  <body>
+    <img
+      src="../images/profile_pic.jpg"
+      style="
+        float: left;
+        margin-right: 20px;
+        border-radius: 10%;
+        width: 25%;
+        height: 25%;
+      "
+    />
+    <p>
+      Hi, my name is Abhishek Joshi &#128075! I am currently an undergraduate student
+      majoring in both
+      <a href="https://www.cs.utexas.edu/">computer science</a> and
+      <a href="https://www.ma.utexas.edu/">mathematics</a> at the
+      <a href="https://www.utexas.edu/">University of Texas at Austin</a>. My
+      particular areas of interests are machine learning (specifically
+      reinforcement learning) and robotics. I am also an unergraduate researcher
+      in the
+      <a href="https://www.cs.utexas.edu/~yukez/"
+        >Robot Perception and Learning (RPL)</a
+      >
+      Lab at UT Austin advised by Dr. Yuke Zhu.
+    </p>
+    <p>
+      I enjoy coding interesting projects in my free time. Some of my projects
+      include artificial intelligence for stock market analysis/predictions, an
+      emulator for the NES built in python, and  .
+    </p>
+
+    <p>In my free time, I also host a podcast called 
+      <i>The Million Dollar Question </i> 
+      where we discuss cool topics in science and research and how they impact our daily lives (<i>link to podcast will be added soon</i>).
+    </p>
+    
+    <p>The best way to reach me is via my email linked below.</p>
+
+    <div class="row">
+      {% include about/skills.html title="Programming Skills"
+      source=site.data.programming-skills %} {% include about/skills.html
+      title="Other Skills" source=site.data.other-skills %}
+    </div>
+
+    <div class="row">{% include about/timeline.html %}</div>
+  </body>
+</html>
+
+

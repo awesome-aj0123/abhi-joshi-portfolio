@@ -1,17 +1,17 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Undergraduate Student, UT CS
+  from: 2020
+  to: 2023
+  description:
+    I am currently a second year student at UT Austin studying both computer science and mathematics.
+    My interests lie in the field of machine learning and robotics and I hope to contribute to the fields
+    in the future. I am also a part of the Robot Perception and Learning (RPL) Lab at UT, advised by Dr. Yuke
+    Zhu.
 
-- title: Software Engineer, Google, UK
+- title: High School Student, Texas Academy of Math and Science
   from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  to: 2020
+  description:
+    The Texas Academy of Math and Science (TAMS) is a division under the Univeristy of North Texas
+    (UNT) that gives high school students the opportunity to take college level courses. This program
+    spans two years starting at the junior level. While at TAMS, I had the chance to take upper-level
+    math course including Multivariable Calculus, Differential Equations, Linear Algebra, etc.
